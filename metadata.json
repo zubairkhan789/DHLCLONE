@@ -1,0 +1,6 @@
+{
+  "name": "DHL Express & Logistics — Educational Demo",
+  "description": "Functional DHL courier & logistics web application featuring shipment tracking, booking, user profiles, posts, and logistics services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
